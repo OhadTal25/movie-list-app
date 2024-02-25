@@ -13,6 +13,7 @@
   padding: 10px;
   border-radius: 5px;
   transition: transform 0.4s ease;
+  align-items: center; /* Center children vertically */
 }
 
 /* Hover effect for movie items */
