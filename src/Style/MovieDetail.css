@@ -1,0 +1,62 @@
+/* --------MovieDetails------- */
+
+.details-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.details {
+  background: rgba(0, 0, 0, 0.5);
+  color: white;
+  padding: 20px;
+  max-width: 400px;
+  margin: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.details img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.details p {
+  text-align: center;
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 10px;
+}
+
+/* Style for navigation links */
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+
+/* Style for the 'previous' navigation button */
+.previous {
+  background-color: #f1f1f1;
+  font-size: 20px;
+  color: black;
+  position: absolute;
+  left: 0;
+  top: 20px;
+  transition: 0.4s ease;
+  border-radius: 0px 50px 50px 0px;
+}
+.previous:hover {
+  transform: translateX(-10px);
+}
+
+/* Add media queries for responsiveness */
+@media (max-width: 768px) {
+  .details {
+    padding: 30px;
+    font-size: 0.9rem;
+  }
+}
