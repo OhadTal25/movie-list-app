@@ -59,7 +59,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-- Ohad Tal - [@https://www.linkedin.com/in/ohadtal/]([https://twitter.com/YourTwitter](https://www.linkedin.com/in/ohadtal/))
+- Ohad Tal - [https://www.linkedin.com/in/ohadtal/](https://www.linkedin.com/in/ohadtal/)
 - Project Link: [https://github.com/OhadTal25/movie-list-app](https://github.com/OhadTal25/movie-list-app)
 
 Thank you for checking out my project!
