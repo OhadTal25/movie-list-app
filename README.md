@@ -20,11 +20,14 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installation
 
 1. Clone the repository:
-git clone https://github.com/OhadTal25/movie-list-app.git
-2. Navigate to the project directory: cd movie-list-app
-3. Install the dependencies: npm install
-4. Create a `.env` file in the root of your project and add your API key: REACT_APP_API_KEY=your_api_key
-5. Start the development server: npm start
+   git clone https://github.com/OhadTal25/movie-list-app.git
+3. Navigate to the project directory:
+   cd movie-list-app
+5. Install the dependencies:
+   npm install
+7. Create a `.env` file in the root of your project and add your API key: REACT_APP_API_KEY=your_api_key
+8. Start the development server:
+   npm start
 
    
 ### Available Scripts
@@ -56,7 +59,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-- Your Name - [@YourTwitter](https://twitter.com/YourTwitter)
+- Ohad Tal - [@https://www.linkedin.com/in/ohadtal/]([https://twitter.com/YourTwitter](https://www.linkedin.com/in/ohadtal/))
 - Project Link: [https://github.com/OhadTal25/movie-list-app](https://github.com/OhadTal25/movie-list-app)
 
 Thank you for checking out my project!
