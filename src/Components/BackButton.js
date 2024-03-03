@@ -1,6 +1,6 @@
 import React from "react";
 
-/*This component creates a header section that contains
+/*This component contains
  a "Previous" link, which navigates the user back to the
  homepage when clicked */
 const BackButton = () => (
