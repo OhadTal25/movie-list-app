@@ -29,7 +29,6 @@ These instructions will get you a copy of the project up and running on your loc
 8. Start the development server:
    npm start
 
-   
 ### Available Scripts
 
 In the project directory, you can run:
@@ -42,6 +41,8 @@ In the project directory, you can run:
 ## Deployment
 
 To deploy the app, run `npm run build` to build the app for production. Then you can serve the `build` folder on a static server or deploy it to a service like Netlify or GitHub Pages.
+
+The project is live at [https://movie-list-app-react.netlify.app](https://movie-list-app-react.netlify.app).
 
 ## Learn More
 
