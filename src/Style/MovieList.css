@@ -9,11 +9,14 @@
 
 /* Style for individual movie items */
 .item {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; /* Adjusts the space distribution inside the item */
   background: rgba(255, 204, 204, 0.5);
   padding: 10px;
   border-radius: 5px;
   transition: transform 0.4s ease;
-  align-items: center; /* Center children vertically */
+  height: 100%; /* Ensures the item takes full height */
 }
 
 /* Hover effect for movie items */
@@ -29,7 +32,7 @@
 /* Style for additional movie information */
 .item p {
   margin: 10px 0 0;
-  color: #fff;
+  color: rgb(255, 255, 255);
 }
 
 header {
