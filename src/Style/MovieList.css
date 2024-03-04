@@ -13,8 +13,8 @@
   flex-direction: column;
   justify-content: space-between; /* Adjusts the space distribution inside the item */
   background: rgba(255, 204, 204, 0.5);
-  padding: 10px;
-  border-radius: 5px;
+  padding: 15px;
+  border-radius: 15px;
   transition: transform 0.4s ease;
 }
 
