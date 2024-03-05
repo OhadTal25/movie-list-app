@@ -13,7 +13,7 @@
   flex-direction: column;
   justify-content: space-between; /* Adjusts the space distribution inside the item */
   background: rgba(255, 204, 204, 0.5);
-  padding: 15px;
+  padding: 10px;
   border-radius: 15px;
   transition: transform 0.4s ease;
 }
@@ -54,4 +54,17 @@ header {
     padding: 8px 40px;
     font-size: 15px;
   }
+}
+
+.search-container {
+  display: flex;
+  justify-content: center; /* Centers the search box */
+  margin: 20px 0;
+}
+
+.search-input {
+  width: 100%;
+  padding: 12px 20px;
+  font-size: 16px; /* Larger font size for readability */
+  border-radius: 25px; /* Rounded corners */
 }
