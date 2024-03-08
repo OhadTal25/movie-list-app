@@ -2,6 +2,7 @@
 .list {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  width: 50%;
   gap: 20px;
   padding: 50px; /* Adjust padding for smaller screens */
   background-color: #323232ac;
