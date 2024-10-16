@@ -11,10 +11,10 @@ const MovieDetails = () => {
   const [movie, setMovie] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
-  //Retrieves the id parameter from the URL to fetch specific movie details
+  //Retrieves the id parameter from the URL to fetch specific movie details  
   const { id } = useParams();
 
-  //Performs the API call when the component mounts or the id changes, with error handling and loading state updates
+  //Performs the API call when the component mounts or the id changes, with error handling and loading state updates  
   useEffect(() => {
     const getMovieDetails = async () => {
       try {
