@@ -1,10 +1,10 @@
-//Import necessary React hooks and components
+//Import necessary React hooks and components 
 import { React, useState, useEffect } from "react";
 import { fetchMovieList } from "../Services/api";
 import MovieCard from "../Components/MovieCard";
 import "../Style/MovieList.css";
 
-// Defines the MovieList functional component
+// Defines the MovieList functional component 
 const MovieList = () => {
   //Initializes state variables for the movie list and search input
   const [list, setList] = useState([]);
