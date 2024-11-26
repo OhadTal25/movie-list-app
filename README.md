@@ -6,7 +6,7 @@ This React-based web application 🌐 allows users to browse a list of movies �
 
 - Display movies in a grid format 📚. 
 - Filter movies based on different criteria 🔍.
-- Click on a movie to see detailed information ℹ️. 
+- Click on a movie to see detailed information ℹ️.  
 
 ## Getting Started
 
