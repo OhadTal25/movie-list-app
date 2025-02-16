@@ -8,7 +8,7 @@ This React-based web application 🌐 allows users to browse a list of movies �
 - Click on a movie to see detailed information ℹ️. 
 
 ## Getting Started  
-
+ 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
