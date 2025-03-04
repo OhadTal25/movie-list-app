@@ -1,7 +1,7 @@
 # Movie List App 🎬 🍿      
         
 This React-based web application 🌐 allows users to browse a list of movies 🎥 fetched from an external API. Users can filter movies, view details for each movie, and navigate using React Router. 
- 
+
 ## Features 
 - Display movies in a grid format 📚.  
 - Filter movies based on different criteria 🔍.   
