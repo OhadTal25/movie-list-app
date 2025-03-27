@@ -6,7 +6,16 @@ import MovieDetails from "./Pages/MovieDetails";
 
 function App() {
   return (
-    
+    <Router>
+      <div className="App">
+        <header className="App-header">
+          <Routes>
+            <Route path="/" element={<MovieList />} />
+            <Route path="/movie/:id" element={<MovieDetails />} />
+          </Routes>
+        </header>
+      </div>
+    </Router>
   );
 }
 
