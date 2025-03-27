@@ -8,7 +8,7 @@ function App() {
   return (
     <Router>
       <div className="App">
-        <header className="App-header">
+        <header className="App-header ">
           <Routes>
             <Route path="/" element={<MovieList />} />
             <Route path="/movie/:id" element={<MovieDetails />} />
